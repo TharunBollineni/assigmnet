@@ -1,0 +1,565 @@
+.iphone-14-15-pro-max-1-child {
+    position: absolute;
+    width: 100%;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 273px;
+    object-fit: cover;
+}
+.iphone-14-15-pro-max-1-item {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    background-color: #f00505;
+    height: 80px;
+}
+.bengaluru-racing-league {
+    text-align: center;
+    position: absolute;
+    width: calc(100% - 33px);
+    top: 20px;
+    left: 14px;
+    font-size: 32px;
+    display: inline-block;
+    font-weight: 700;
+    color: #f4f0f0;
+    white-space: pre-wrap;
+    height: 41px;
+}
+.iphone-14-15-pro-max-1-inner {
+    position: absolute;
+    width: 100%;
+    top: 86px;
+    right: 0px;
+    left: 0px;
+    background-color: #f9d519;
+    height: 56px;
+}
+.score-board {
+    text-align: center;
+    position: absolute;
+    width: calc(100% - 33px);
+    top: 100px;
+    left: 14px;
+    font-size: 32px;
+    display: inline-block;
+    font-weight: 700;
+    color: #080707;
+    white-space: pre-wrap;
+    height: 41px;
+}
+.rectangle-div {
+    
+    position: absolute;
+    width: calc(100% - 16px);
+    top: 184px;
+    right: 8px;
+    left: 8px;
+    background-color: #d9d9d9;
+    height: 39px;
+}
+.name {
+    position: absolute;
+    top: 190px;
+    left: 155px;
+    font-size: 22px;
+}
+.rank {
+    
+    position: absolute;
+    top: 190px;
+    left: 17px;
+    font-size: 22px;
+}
+.time {
+    position: absolute;
+    top: 190px;
+    right: 1230px;
+    font-size: 22px;
+}
+.frame-child {
+    align-self: stretch;
+    position: relative;
+    background-color: #d9d9d9;
+    height: 44px;
+}
+.frame-div {
+    position: absolute;
+    width: calc(100% + 1px);
+    top: 232px;
+    right: 1px;
+    left: -2px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.iphone-14-15-pro-max-1-inner1 {
+    position: absolute;
+    width: calc(100% + 1px);
+    top: 337px;
+    right: 1px;
+    left: -2px;
+    height: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.iphone-14-15-pro-max-1-inner2 {
+    position: absolute;
+    width: calc(100% + 1px);
+    top: 282px;
+    right: -1px;
+    left: 0px;
+    height: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.iphone-14-15-pro-max-1-inner3 {
+    position: absolute;
+    width: calc(100% + 1px);
+    top: 391px;
+    right: 1px;
+    left: -2px;
+    height: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.iphone-14-15-pro-max-1-inner4 {
+    position: absolute;
+    width: calc(100% + 1px);
+    top: 445px;
+    right: -1px;
+    left: 0px;
+    height: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.iphone-14-15-pro-max-1-inner5 {
+    position: absolute;
+    width: calc(100% + 1px);
+    top: 499px;
+    right: -1px;
+    left: 0px;
+    height: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.iphone-14-15-pro-max-1-inner6 {
+    position: absolute;
+    width: calc(100% + 1px);
+    top: 554px;
+    right: 0px;
+    left: -1px;
+    height: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.iphone-14-15-pro-max-1-inner7 {
+    position: absolute;
+    width: calc(100% + 1px);
+    top: 607px;
+    right: -1px;
+    left: 0px;
+    height: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.iphone-14-15-pro-max-1-inner8 {
+    position: absolute;
+    width: calc(100% + 1px);
+    top: 661px;
+    right: -1px;
+    left: 0px;
+    height: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.iphone-14-15-pro-max-1-inner9 {
+    position: absolute;
+    width: calc(100% + 1px);
+    top: 770px;
+    right: 1px;
+    left: -2px;
+    height: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.iphone-14-15-pro-max-1-inner10 {
+    position: absolute;
+    width: calc(100% + 1px);
+    top: 822px;
+    right: 1px;
+    left: -2px;
+    height: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.iphone-14-15-pro-max-1-inner11 {
+    position: absolute;
+    width: calc(100% + 1px);
+    top: 878px;
+    right: -1px;
+    left: 0px;
+    height: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.iphone-14-15-pro-max-1-inner12 {
+    position: absolute;
+    width: calc(100% + 1px);
+    top: 931px;
+    right: 1px;
+    left: -2px;
+    height: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.iphone-14-15-pro-max-1-inner13 {
+    position: absolute;
+    width: calc(100% + 1px);
+    top: 985px;
+    right: 1px;
+    left: -2px;
+    height: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.iphone-14-15-pro-max-1-inner14 {
+    position: absolute;
+    width: calc(100% + 1px);
+    top: 1038px;
+    right: -1px;
+    left: 0px;
+    height: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.iphone-14-15-pro-max-1-inner15 {
+    position: absolute;
+    width: calc(100% + 1px);
+    top: 715px;
+    right: 1px;
+    left: -2px;
+    height: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.ellipse-div {
+    width: 30px;
+    position: relative;
+    border-radius: 50%;
+    background-color: #2ae519;
+    height: 27px;
+}
+.tony-stark {
+    width: 72px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.div {
+    width: 59px;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    height: 18px;
+    flex-shrink: 0;
+}
+.ellipse-parent {
+    position: absolute;
+    width: calc(100% - 65px);
+    top: 251px;
+    right: 46px;
+    left: 19px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 102px;
+}
+.frame-child14 {
+    width: 30px;
+    position: relative;
+    border-radius: 50%;
+    background-color: #edca10;
+    height: 27px;
+}
+.div1 {
+    position: relative;
+    font-weight: 600;
+}
+.ellipse-group {
+    position: absolute;
+    width: calc(100% - 68px);
+    top: 301px;
+    right: 49px;
+    left: 19px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 102px;
+}
+.frame-child15 {
+    width: 30px;
+    position: relative;
+    border-radius: 50%;
+    background-color: #ff6915;
+    height: 27px;
+}
+.ellipse-container {
+    position: absolute;
+    width: calc(100% - 66px);
+    top: 359px;
+    right: 47px;
+    left: 19px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 102px;
+}
+.frame-child16 {
+    width: 30px;
+    position: relative;
+    border-radius: 50%;
+    background-color: #000;
+    height: 27px;
+}
+.ellipse-parent1 {
+    position: absolute;
+    width: calc(100% - 66px);
+    top: 412px;
+    right: 47px;
+    left: 19px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 102px;
+}
+.ellipse-parent2 {
+    position: absolute;
+    width: calc(100% - 66px);
+    top: 467px;
+    right: 43px;
+    left: 23px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 102px;
+}
+.ellipse-parent3 {
+    position: absolute;
+    width: calc(100% - 68px);
+    top: 517px;
+    right: 45px;
+    left: 23px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 102px;
+}
+.ellipse-parent4 {
+    position: absolute;
+    width: calc(100% - 65px);
+    top: 575px;
+    right: 42px;
+    left: 23px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 102px;
+}
+.ellipse-parent5 {
+    position: absolute;
+    width: calc(100% - 68px);
+    top: 629px;
+    right: 45px;
+    left: 23px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 102px;
+}
+.ellipse-parent6 {
+    position: absolute;
+    width: calc(100% - 66px);
+    top: 679px;
+    right: 43px;
+    left: 23px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 102px;
+}
+.ellipse-parent7 {
+    position: absolute;
+    width: calc(100% - 65px);
+    top: 725px;
+    right: 42px;
+    left: 23px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 102px;
+}
+.ellipse-parent8 {
+    position: absolute;
+    width: calc(100% - 66px);
+    top: 787px;
+    right: 43px;
+    left: 23px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 102px;
+}
+.ellipse-parent9 {
+    position: absolute;
+    width: calc(100% - 68px);
+    top: 838px;
+    right: 45px;
+    left: 23px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 102px;
+}
+.ellipse-parent10 {
+    position: absolute;
+    width: calc(100% - 66px);
+    top: 896px;
+    right: 43px;
+    left: 23px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 102px;
+}
+.ellipse-parent11 {
+    position: absolute;
+    width: calc(100% - 65px);
+    top: 949px;
+    right: 42px;
+    left: 23px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 102px;
+}
+.ellipse-parent12 {
+    position: absolute;
+    width: calc(100% - 66px);
+    top: 1003px;
+    right: 43px;
+    left: 23px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 102px;
+}
+.ellipse-parent13 {
+    position: absolute;
+    width: calc(100% - 65px);
+    top: 1056px;
+    right: 42px;
+    left: 23px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 102px;
+}
+.iphone-14-15-pro-max-1 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1375px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 14px;
+    color: #000;
+    font-family: Inter;
+}
+
+
